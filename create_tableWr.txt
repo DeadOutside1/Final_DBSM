@@ -1,4 +1,4 @@
-create table addreses(
+xscreate table addreses(
     address_id INT NOT NULL,
   address_line1 VARCHAR(100) NULL,
   address_line2 VARCHAR(100) NULL,
