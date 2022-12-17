@@ -1,0 +1,161 @@
+create table addreses(
+    address_id INT NOT NULL,
+  address_line1 VARCHAR(100) NULL,
+  address_line2 VARCHAR(100) NULL,
+  city VARCHAR(45) NULL,
+  state VARCHAR(45) NULL,
+  country VARCHAR(45) NULL,
+  PRIMARY KEY (address_id)
+)
+
+CREATE TABLE star_ratings(
+  star_rating INT NOT NULL,
+  star_rating_image VARCHAR(100) NULL,
+  PRIMARY KEY (star_rating))
+
+CREATE TABLE hotel(
+  hotel_id INT NOT NULL,
+  hotel_name VARCHAR(45) NULL,
+  hotel_phone_number VARCHAR(20) NULL,
+  hotel_email VARCHAR(45) NULL,
+  hotel_floor_count INT NULL,
+  hotel_room_count INT NULL,
+  address_id INT NOT NULL,
+  star_rating_id INT NOT NULL,
+  PRIMARY KEY (hotel_id,address_id,star_rating_id),
+    FOREIGN KEY (address_id)
+    REFERENCES addresses (address_id),
+    FOREIGN KEY (star_rating_id)
+    REFERENCES star_ratings (star_rating)
+)
+
+CREATE TABLE  room_type(
+  type_id INT NOT NULL,
+  room_name VARCHAR(45) NULL,
+  room_cost DECIMAL(10,2) NULL,
+  room_description VARCHAR(100) NULL,
+  room_size int not null,
+  smoke_friendly varchar(5) null,
+  PRIMARY KEY (type_id)
+)
+
+CREATE TABLE rooms(
+  room_id INT NOT NULL,
+  room_number INT not NULL,
+  type_id INT NOT NULL,
+  hotel_id INT NOT NULL,
+  PRIMARY KEY (room_id,type_id),
+    FOREIGN KEY (type_id)
+    REFERENCES room_type (type_id)
+)
+
+drop table guests
+CREATE TABLE  guests(
+  guest_id INT NOT NULL,
+  first_name VARCHAR(45) NULL,
+  last_name VARCHAR(45) NULL,
+  contact_id int not null,
+  credit_card VARCHAR(45) NULL,
+  PRIMARY KEY (guest_id,contact_id),
+  
+    FOREIGN KEY (contact_id)
+    REFERENCES contacts(contact_id)
+)
+
+CREATE TABLE department(
+  department_id INT NOT NULL,
+  department_name VARCHAR(100) NULL,
+  department_location VARCHAR(100) NULL,
+  employee_id int not null,
+  PRIMARY KEY (department_id,employee_id),
+  foreign key (employee_id)
+  references employees(employee_id)
+  )
+
+create table employees(
+    employee_id int not null,
+    hotel_id int not null,
+    phone_number varchar(20),
+    employee_adress varchar(100),
+    employee_full_name varchar(100),
+    primary key (employee_id)
+)
+
+create table payment(
+    payment_id int not null,
+    payment_type varchar(45) null,
+    total_amount decimal(10,2) null,
+    payment_date date null,
+    primary key(payment_id)
+)
+
+CREATE TABLE bookings (
+  booking_id INT NOT NULL,
+  booking_date DATE not NULL,
+  duration_of_stay VARCHAR(20) not NULL,
+  check_in_date DATE not NULL,
+  check_out_date DATE NULL,
+  total_rooms_booked INT NULL,
+  payment_id VARCHAR(45) NULL,
+  hotel_id INT NOT NULL,
+  guest_id INT NOT NULL,
+  employee_id INT NOT NULL,
+  PRIMARY KEY (booking_id,payment_id,hotel_id,guest_id, employee_id),
+    FOREIGN KEY (employee_id)
+    REFERENCES payment(payment_id),
+    FOREIGN KEY (employee_id)
+    REFERENCES employees(employee_id)
+    )
+create table rooms_booked(
+    rooms_booked_id int not null,
+    booking_id int not null,
+    room_id int not null,
+    primary key(rooms_booked_id)
+)
+
+create table salary(
+    salary_id int not null,
+    payment_date date,
+    employee_id int not null,
+    primary key (salary_id,employee_id),
+    foreign key  (employee_id)
+    references employees
+)
+
+create table emp_position(
+    position_id number not null,
+    position_name varchar(50),
+    position_description varchar(150),
+    employee_id number not null,
+    primary key (position_id),
+    foreign key(employee_id)
+    references employees
+)
+
+create table emp_position(
+    position_id number not null,
+    position_name varchar(50),
+    position_description varchar(150),
+    employee_id number not null,
+    primary key (position_id),
+    foreign key(employee_id)
+    references employees
+)
+
+create table hotel_amenities(
+    amenity_id int not null,
+    amenity_name varchar(50),
+    amenity_description varchar(255),
+    amenity_cost decimal(10,2) not null,
+    hotel_id int not null,
+    primary key (amenity_id)
+)
+create table hotel_amenities_used_by_guests(
+    amenities_used_id int not null,
+    amenity_id int not null,
+    booking_id int not null,
+    primary key (amenities_used_id,amenity_id),
+    foreign key (amenity_id)
+    references hotel_amenities
+)
+
