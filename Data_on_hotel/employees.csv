@@ -1,0 +1,101 @@
+employee_id,phone_number,employee_adress,employee_full_name
+1,+249 (873) 569-2071,8 Hudson Plaza,Rik Loody
+2,+856 (652) 483-1422,648 Lighthouse Bay Plaza,Aurlie Brierton
+3,+970 (899) 402-2847,3210 Bashford Lane,Fan Gostick
+4,+57 (440) 491-3604,1069 Packers Avenue,Ephrayim Madoc-Jones
+5,+93 (153) 141-7286,0625 Vermont Terrace,Leanora McKibben
+6,+52 (408) 729-8158,567 Anthes Avenue,Martie Soeiro
+7,+55 (560) 862-3999,36302 Marcy Way,Caye Skoyles
+8,+86 (367) 156-1993,14 Old Shore Court,Zelig Piccop
+9,+370 (219) 675-4217,74 Westend Court,Bordy Chevolleau
+10,+420 (106) 433-7207,7 Hanson Parkway,Caren Matthesius
+11,+66 (998) 479-5103,27390 Melby Center,Rudy Dymock
+12,+55 (703) 610-7516,909 Waubesa Point,Ephraim Coad
+13,+381 (220) 873-0997,7801 Scott Pass,Mada Tewkesbury
+14,+30 (139) 946-5375,868 Granby Point,Ephrem Slowgrave
+15,+51 (419) 930-6161,70316 Anniversary Court,Isidore Banham
+16,+86 (216) 693-9894,36684 Talisman Crossing,Ethelin Bavage
+17,+850 (190) 959-5650,3 Larry Center,Ulrich Prosser
+18,+33 (639) 975-1332,572 Anniversary Plaza,Orelee Bolgar
+19,+380 (131) 862-4599,3852 Calypso Point,Adler Bugbird
+20,+385 (882) 235-9364,05254 Daystar Place,Weylin Daniel
+21,+359 (148) 883-8095,67 Bluestem Court,Rosana Nisuis
+22,+7 (826) 150-4885,49 Becker Circle,Berkie Janning
+23,+58 (450) 959-4730,24682 Northview Point,Emogene Paffett
+24,+62 (482) 131-5712,0 Sycamore Place,Raynard Govinlock
+25,+92 (303) 764-0746,84752 Ryan Street,Eddie Jouannot
+26,+86 (960) 242-5573,95 Brown Alley,Richardo Rathbone
+27,+502 (522) 902-2388,32 Kennedy Crossing,Dee Ziemke
+28,+55 (707) 598-4683,54 Texas Crossing,Cordy Franklen
+29,+1 (929) 621-0863,6 Carpenter Drive,Cary Murricanes
+30,+86 (208) 750-5074,54 Meadow Vale Crossing,Eadie Guillford
+31,+1 (706) 633-3325,02190 Eastlawn Lane,Reta Ridhole
+32,+7 (509) 854-3859,8 Gateway Road,Urban Uccello
+33,+358 (509) 383-5280,50566 Cody Place,Marten Stutely
+34,+36 (907) 584-9815,041 Haas Alley,Court Koomar
+35,+976 (924) 825-9650,692 Springs Terrace,Pooh Lynd
+36,+351 (185) 472-5892,2253 Barby Trail,Gabbie Valadez
+37,+373 (530) 418-7028,0951 Briar Crest Pass,Bobina Loiterton
+38,+357 (774) 187-3837,2136 Crowley Junction,Bathsheba Knowller
+39,+1 (314) 135-2438,93071 Mesta Drive,Bernardine Sinclair
+40,+380 (132) 885-5358,72817 Hauk Hill,Rand Blance
+41,+62 (801) 982-0048,802 South Lane,Hartley Roseblade
+42,+86 (208) 663-5742,019 Westport Court,Tabatha Pentecust
+43,+996 (656) 932-4703,05 Helena Crossing,Natassia Gales
+44,+351 (850) 186-9414,2 Marquette Center,Jayne Zamorano
+45,+7 (245) 180-1363,7 Gulseth Street,Tamarah Capaldo
+46,+86 (803) 649-7564,28798 Oak Valley Court,Angeline Belsey
+47,+86 (543) 142-1952,12453 Packers Terrace,Belinda McCurry
+48,+7 (852) 840-3573,177 Elka Court,Celestia Saltwell
+49,+62 (688) 325-2056,8 North Crossing,Johnathan Carnaman
+50,+375 (393) 486-0836,440 Brown Avenue,Hilton Spolton
+51,+1 (913) 464-6053,3703 Washington Alley,Sergio Abelevitz
+52,+420 (375) 553-2969,646 Sachs Drive,Adeline Vignal
+53,+92 (113) 520-0510,51 Grim Terrace,Jeniece Haworth
+54,+1 (585) 404-2283,038 Evergreen Street,Gerladina Dannehl
+55,+66 (719) 172-2242,4876 Union Alley,Darsie April
+56,+98 (220) 768-4340,0 Armistice Lane,Georgeta Myrkus
+57,+33 (247) 898-1700,9 Del Mar Place,Charlot McKeighan
+58,+62 (130) 931-1043,3088 Chinook Parkway,Teodoor Selley
+59,+998 (532) 323-5877,257 Hooker Terrace,Teador Karlsen
+60,+62 (840) 241-4049,1492 Rockefeller Pass,Carmen Simoncelli
+61,+30 (333) 987-0819,8 Oak Valley Junction,Kleon Slorach
+62,+48 (747) 236-0519,43832 Waxwing Way,Mylo Gleader
+63,+86 (647) 667-6082,901 Crowley Parkway,Kim Clementson
+64,+970 (745) 734-5971,370 Westport Drive,Claus Beminster
+65,+62 (715) 630-7785,6048 Lindbergh Plaza,Lemmy Cawkwell
+66,+420 (655) 413-9467,35 Browning Point,Lynda MacConnal
+67,+86 (898) 734-7657,17889 Butternut Circle,Laney Hubbart
+68,+86 (557) 727-5494,69 Granby Circle,Dav Balden
+69,+374 (385) 891-0753,2 Melrose Parkway,Kimberli Whitmore
+70,+81 (745) 174-7776,13578 Hermina Street,Karel O'Neal
+71,+86 (538) 331-1285,60495 Hintze Court,Nanette Harbertson
+72,+62 (988) 271-3470,25 Hintze Plaza,Darn Habbert
+73,+62 (511) 312-9575,366 Karstens Pass,Joleen Tuckley
+74,+54 (423) 655-0167,4 Bultman Junction,Jessalyn Milillo
+75,+218 (397) 829-4722,4 Loomis Center,Abbey Tasseler
+76,+66 (251) 935-0688,1 Goodland Avenue,Betsey Taaffe
+77,+86 (392) 264-8689,0 Little Fleur Parkway,Freda Trout
+78,+385 (122) 155-6034,3859 Drewry Pass,Franciska Shimon
+79,+1 (408) 172-5628,08394 Melby Avenue,Bride Figgins
+80,+55 (207) 777-0276,32 Westend Terrace,Garland Atterley
+81,+54 (577) 138-3006,07976 Muir Way,Crystal Pumphreys
+82,+86 (726) 735-1746,6062 Del Sol Circle,Xena Charrington
+83,+60 (313) 439-6384,35600 Oriole Street,Merrily Nolda
+84,+63 (174) 424-5715,55 Novick Plaza,Janette Rodenborch
+85,+998 (342) 696-1890,23609 Esch Lane,Corri Crannis
+86,+86 (567) 492-3232,1 Sachs Trail,Skip Perch
+87,+359 (995) 380-9770,9 Schlimgen Street,Claiborn Grisley
+88,+7 (316) 536-2986,2 Jay Plaza,Margot Offiler
+89,+48 (105) 871-2777,89 Mitchell Street,Elly Shermore
+90,+372 (140) 510-2138,37 Eagle Crest Street,Augy Luttgert
+91,+1 (512) 859-4771,70 Cascade Street,Russell Avesque
+92,+86 (163) 320-0477,83848 Walton Parkway,Staci McGrayle
+93,+234 (706) 549-4520,361 Golf View Drive,Vinnie Goneau
+94,+86 (305) 894-3833,52277 Mayer Circle,Tris Penreth
+95,+86 (702) 713-7268,19288 3rd Crossing,Loise De Bernardi
+96,+504 (524) 362-0466,3 Ohio Terrace,Shauna Tallyn
+97,+420 (826) 982-7795,5092 Prairieview Drive,Marthe Kinver
+98,+212 (383) 474-9628,0486 International Lane,Fidelio Arnaldy
+99,+420 (566) 622-0222,70694 Spaight Avenue,Perl Redmond
+100,+63 (308) 373-5817,6 Transport Alley,Zachery Scoffham

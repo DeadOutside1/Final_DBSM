@@ -1,0 +1,101 @@
+type_id ,room_name,room_cost,room_description,room_size,smoke_friendly
+200,Club Room,134.00,2 King Bed room with city views,200 м²,0
+201,Executive Room,123.00,2 King Bed room with city views,75 м²,0
+202,Standard Twin Room,123.00,2 King Bed room with city views,75 м²,1
+203,Standard Twin Room,150.00,1 King Bed room with city views,150 м²,0
+204,Standard Room,134.00,2 King Bed room with city views,200 м²,1
+205,Club Room,134.00,2 King Bed room with city views,200 м²,0
+206,Standard Twin Room,150.00,2 King Bed room with city views,150 м²,0
+207,Club Room,150.00,Two Twin Bed,125 м²,0
+208,Executive Room,300.00,Two Twin Bed,200 м²,1
+209,Standard Room,123.00,1 King Bed room with city views,150 м²,0
+210,Standard Room,150.00,2 King Bed room with city views,150 м²,0
+211,Club Room,150.00,1 King Bed room with city views,200 м²,1
+212,Standard Room,500.00,1 King Bed room with city views,125 м²,0
+213,Standard Room,500.00,1 King Bed room with city views,125 м²,0
+214,Standard Room,500.00,1 King Bed room with city views,150 м²,1
+215,Club Room,500.00,2 King Bed room with city views,75 м²,1
+216,Standard Twin Room,134.00,Two Twin Bed,75 м²,0
+217,Executive Room,123.00,1 King Bed room with city views,200 м²,0
+218,Executive Room,134.00,1 King Bed room with city views,200 м²,0
+219,Standard Twin Room,500.00,2 King Bed room with city views,200 м²,0
+220,Executive Room,134.00,Two Twin Bed,75 м²,0
+221,Club Room,500.00,Two Twin Bed,200 м²,1
+222,Standard Twin Room,150.00,2 King Bed room with city views,75 м²,0
+223,Executive Room,300.00,2 King Bed room with city views,200 м²,1
+224,Standard Twin Room,300.00,Two Twin Bed,75 м²,0
+225,Club Room,123.00,Two Twin Bed,75 м²,1
+226,Standard Room,500.00,2 King Bed room with city views,200 м²,1
+227,Executive Room,134.00,2 King Bed room with city views,150 м²,1
+228,Standard Room,300.00,1 King Bed room with city views,75 м²,0
+229,Executive Room,300.00,1 King Bed room with city views,75 м²,1
+230,Executive Room,150.00,1 King Bed room with city views,150 м²,0
+231,Standard Twin Room,500.00,1 King Bed room with city views,125 м²,0
+232,Standard Room,150.00,2 King Bed room with city views,125 м²,0
+233,Executive Room,300.00,2 King Bed room with city views,150 м²,1
+234,Standard Twin Room,150.00,2 King Bed room with city views,150 м²,1
+235,Executive Room,500.00,1 King Bed room with city views,75 м²,0
+236,Executive Room,300.00,Two Twin Bed,150 м²,1
+237,Club Room,150.00,2 King Bed room with city views,75 м²,0
+238,Standard Room,123.00,Two Twin Bed,125 м²,0
+239,Standard Room,123.00,Two Twin Bed,200 м²,1
+240,Executive Room,150.00,1 King Bed room with city views,200 м²,1
+241,Standard Twin Room,500.00,1 King Bed room with city views,200 м²,0
+242,Club Room,300.00,1 King Bed room with city views,150 м²,0
+243,Standard Twin Room,123.00,Two Twin Bed,125 м²,0
+244,Executive Room,500.00,Two Twin Bed,125 м²,1
+245,Standard Twin Room,300.00,2 King Bed room with city views,75 м²,1
+246,Standard Room,123.00,1 King Bed room with city views,200 м²,0
+247,Executive Room,123.00,Two Twin Bed,75 м²,0
+248,Standard Room,500.00,2 King Bed room with city views,200 м²,1
+249,Standard Twin Room,123.00,1 King Bed room with city views,150 м²,0
+250,Club Room,134.00,Two Twin Bed,125 м²,1
+251,Standard Room,134.00,2 King Bed room with city views,150 м²,0
+252,Standard Room,134.00,1 King Bed room with city views,75 м²,0
+253,Standard Room,134.00,1 King Bed room with city views,150 м²,1
+254,Standard Room,123.00,1 King Bed room with city views,200 м²,1
+255,Standard Room,134.00,Two Twin Bed,200 м²,1
+256,Executive Room,150.00,2 King Bed room with city views,125 м²,0
+257,Executive Room,300.00,1 King Bed room with city views,150 м²,0
+258,Club Room,150.00,2 King Bed room with city views,150 м²,0
+259,Club Room,123.00,Two Twin Bed,125 м²,1
+260,Standard Twin Room,150.00,1 King Bed room with city views,150 м²,0
+261,Standard Twin Room,123.00,Two Twin Bed,150 м²,1
+262,Club Room,123.00,Two Twin Bed,125 м²,0
+263,Standard Room,300.00,2 King Bed room with city views,75 м²,0
+264,Club Room,123.00,2 King Bed room with city views,125 м²,0
+265,Club Room,500.00,2 King Bed room with city views,125 м²,0
+266,Standard Twin Room,150.00,2 King Bed room with city views,200 м²,0
+267,Standard Room,134.00,2 King Bed room with city views,200 м²,0
+268,Club Room,150.00,1 King Bed room with city views,150 м²,1
+269,Club Room,150.00,1 King Bed room with city views,75 м²,1
+270,Standard Room,123.00,Two Twin Bed,125 м²,1
+271,Standard Twin Room,500.00,Two Twin Bed,200 м²,0
+272,Executive Room,300.00,1 King Bed room with city views,200 м²,0
+273,Executive Room,150.00,1 King Bed room with city views,125 м²,0
+274,Club Room,300.00,2 King Bed room with city views,75 м²,0
+275,Standard Room,134.00,Two Twin Bed,200 м²,1
+276,Standard Twin Room,500.00,1 King Bed room with city views,150 м²,1
+277,Executive Room,500.00,Two Twin Bed,125 м²,1
+278,Standard Room,123.00,2 King Bed room with city views,200 м²,0
+279,Standard Room,150.00,1 King Bed room with city views,150 м²,0
+280,Standard Twin Room,500.00,Two Twin Bed,75 м²,0
+281,Standard Room,150.00,2 King Bed room with city views,150 м²,1
+282,Executive Room,300.00,Two Twin Bed,125 м²,0
+283,Club Room,134.00,2 King Bed room with city views,75 м²,1
+284,Executive Room,300.00,1 King Bed room with city views,150 м²,0
+285,Standard Twin Room,134.00,2 King Bed room with city views,75 м²,1
+286,Standard Room,123.00,2 King Bed room with city views,200 м²,1
+287,Standard Room,500.00,2 King Bed room with city views,75 м²,0
+288,Executive Room,300.00,Two Twin Bed,150 м²,1
+289,Standard Twin Room,150.00,2 King Bed room with city views,75 м²,1
+290,Club Room,500.00,1 King Bed room with city views,75 м²,0
+291,Executive Room,123.00,2 King Bed room with city views,200 м²,0
+292,Club Room,300.00,2 King Bed room with city views,200 м²,1
+293,Standard Room,300.00,Two Twin Bed,75 м²,1
+294,Executive Room,150.00,1 King Bed room with city views,150 м²,1
+295,Executive Room,123.00,2 King Bed room with city views,200 м²,0
+296,Standard Room,134.00,1 King Bed room with city views,200 м²,1
+297,Standard Room,500.00,2 King Bed room with city views,200 м²,0
+298,Standard Room,300.00,1 King Bed room with city views,125 м²,0
+299,Executive Room,150.00,2 King Bed room with city views,75 м²,1
