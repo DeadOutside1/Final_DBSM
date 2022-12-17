@@ -159,3 +159,4 @@ create table hotel_amenities_used_by_guests(
     references hotel_amenities
 )
 
+NamazBek kalaysyn
